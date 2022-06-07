@@ -1,14 +1,3 @@
-Machine Learning Toolkit Assets
-==================================
-
-This repository contains the binary assets used by the [Machine Learning Toolkit](https://github.com/SiliconLabs/mltk) (MLTK).
-
-Refer to the MLTK [Online Documentation](https://siliconlabs.github.io/mltk) for more details.
-
-
-
-## License
-
 SPDX-License-Identifier: Zlib
 
 The licensor of this software is Silicon Laboratories Inc.
